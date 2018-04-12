@@ -1,0 +1,11 @@
+This is version 0.8 of the lexicon (a beta release).
+
+TO-DO: 
+   1) Go through the lexicon by hand to see if everything
+      "looks right"
+
+   2) Determine which variants need to be removed from
+       the lexicon (because their meanings are sufficiently
+       rare, e.g., "abandoned").
+
+
