@@ -16,3 +16,11 @@ the cat run up the hill
 ## Notes
 
 Builds on OSX.  
+
+```
+cd kstem
+make
+make install
+echo export STEM_DIR=$HOME/local/share/kstem >> ~/.bashrc
+. ~/.bashrc
+```
